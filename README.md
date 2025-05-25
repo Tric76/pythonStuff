@@ -4,5 +4,5 @@ I know I could have used a cryptography library, but I find it entertaining to t
 This program translates the letters into numbers and messes around with it to make it less obvious to decode.
 Version 6 works with a "rolling code", so the letter A will translate to 10 and after 8 characters it will add 1 to each translation so A will become 11 etc.
 Version 7 will scramble around the encrypted code even more (changing the order), but is not yes stable/ work as intended.
-The program can both encode and decode and will filter most of the wrong input (for now only alphabetical characters and some punctuation marks.
+The program can both encode and decode and will filter most of the wrong input (for now only alphabetical characters and some punctuation marks).
 Maybe someone will enjoy it.
