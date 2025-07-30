@@ -6,3 +6,6 @@ Version 6 works with a "rolling code", so the letter A will translate to 10 and 
 Version 7 will scramble around the encrypted code even more (changing the order), but is not yes stable/ work as intended.
 The program can both encode and decode and will filter most of the wrong input (for now only alphabetical characters and some punctuation marks).
 Maybe someone will enjoy it.
+
+V9 Adds the options to resize the groups that are being reversed, the base number for the letter 'A' and the number of stept it takes before "rolling" the code (e.g. 'A' 
+becomes '11'). So basically there's now a sort of encryption key :)
